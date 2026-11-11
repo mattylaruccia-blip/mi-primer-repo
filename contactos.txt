@@ -1,1 +1,2 @@
-Ana - 70000000
+Ana - 70000000 - ana@ejemplo.com
+Bruno - 7000001 - bruno@soyese.com
